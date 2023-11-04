@@ -1,6 +1,6 @@
-<h1 align="right">Hi 👋, I'm JAYASRIAAM</h1>
+<h1 align="center">Hi Techie's 👋, I'm JAYASRIAAM .S</h1>
 
-<p align="left"> <a href="https://www.linkedin.com/in/jayasriraam/" target="_blank" rel="noreferrer"> <img src="https://unicorn-s3.b-cdn.net/14-vc8qh.gif" alt="computer" width="400" height="500"/> </a>
+<p align="center"> <a href="https://www.linkedin.com/in/jayasriraam/" target="_blank" rel="noreferrer"> <img src="https://unicorn-s3.b-cdn.net/14-vc8qh.gif" alt="computer"/> </a>
 <h3 align="center">Full Stack Developer with a deep passion for Web Development. Here, you'll get a peek into my projects, work, and a bit about who I am.</h3>
 
 <p align="left"> <a href="https://twitter.com/ivan_jayram" target="blank"><img src="https://img.shields.io/twitter/follow/ivan_jayram?logo=twitter&style=for-the-badge" alt="ivan_jayram" /></a> </p>
