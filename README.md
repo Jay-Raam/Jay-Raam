@@ -7,7 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://62e51436c495a.site123.me/](https://62e51436c495a.site123.me/)
 
-  💬 Ask me about **
+
+  💬 Ask me about 
 - 🌍 I'm based in Chennai.
 - 🎓 Graduated in BCA from G.T.N arts colleges.
 - 😄 Pronouns: Jay**
