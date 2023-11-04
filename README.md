@@ -1,5 +1,6 @@
 <h1 align="right">Hi 👋, I'm JAYASRIAAM</h1>
-<p align="left"><img src="[https://storyset.com/illustration/desktop-computer/bro](https://img.freepik.com/free-vector/storyboard-process-illustration_23-2148679316.jpg?w=740&t=st=1699084552~exp=1699085152~hmac=cd9dee2babdcfed3a11270c0892df1f8023c1dcbadd7a1f5f45c95348844f9c1)" alt="computer" /></p>
+
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ExF7l87Fwk7PE1dTbtmON6AlpgAUGmuY4DRGJEu6uQ&s" alt="angular" width="40" height="40"/> </a>
 <h3 align="center">Full Stack Developer with a deep passion for Web Development. Here, you'll get a peek into my projects, work, and a bit about who I am.</h3>
 
 <p align="left"> <a href="https://twitter.com/ivan_jayram" target="blank"><img src="https://img.shields.io/twitter/follow/ivan_jayram?logo=twitter&style=for-the-badge" alt="ivan_jayram" /></a> </p>
