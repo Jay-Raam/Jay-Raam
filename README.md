@@ -1,5 +1,5 @@
 <h1 align="right">Hi 👋, I'm JAYASRIAAM</h1>
-<p align="left"><a href='https://storyset.com/illustration/desktop-computer/bro'></a></p>
+<p align="left"><img src="https://storyset.com/illustration/desktop-computer/bro" alt="computer" /></p>
 <h3 align="center">Full Stack Developer with a deep passion for Web Development. Here, you'll get a peek into my projects, work, and a bit about who I am.</h3>
 
 <p align="left"> <a href="https://twitter.com/ivan_jayram" target="blank"><img src="https://img.shields.io/twitter/follow/ivan_jayram?logo=twitter&style=for-the-badge" alt="ivan_jayram" /></a> </p>
