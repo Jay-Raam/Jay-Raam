@@ -1,7 +1,7 @@
-<h1 align="center">Hi Techie's 👋, I'm JAYASRIAAM .S</h1>
+<h1 align="center">Hi Techie's 👋, I'm JAYASRIAAM</h1>
 
 <p align="center"> <a href="https://www.linkedin.com/in/jayasriraam/" target="_blank" rel="noreferrer"> <img src="https://unicorn-s3.b-cdn.net/14-vc8qh.gif" alt="computer"/> </a>
-<h3 align="center">Full Stack Developer with a deep passion for Web Development. Here, you'll get a peek into my projects, work, and a bit about who I am.</h3>
+<h3 align="center">Full Stack Developer and UI/UX Designer for Web Development. Here, you'll get a peek into my projects, work, and a bit about who I am.</h3>
 
 
 - <h3>🌱 I’m currently learning</h3> React, Mongodb, Nodejs, Html, Css, Vue
