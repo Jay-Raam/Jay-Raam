@@ -11,14 +11,14 @@
   💬 Ask me about 
 - 🌍 I'm based in Chennai.
 - 🎓 Graduated in BCA from G.T.N arts colleges.
-- 😄 Pronouns: Jay**
+- 😄 Pronouns: Jay
 
 📫 How to reach me **jayasriraam.job@gmail.com**
 
-  ⚡ Fun fact **
+  ⚡ Fun fact 
 - 🌱 I'm currently learning New Programming Lanuage's.
 - 🎮 I enjoy playing Valor Legends.
-- 📚 One of my favorite book is AnnaiTamil.**
+- 📚 One of my favorite book is AnnaiTamil.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
