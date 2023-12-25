@@ -33,6 +33,5 @@
 <div align="center">
 <a href="https://github.com/Jay-Raam">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jay-Raam&theme=graywhite" height="180em" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jay-Raam&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay-Raam&theme=graywhite" height="180em" margin-top="20px"/>
 </div>
