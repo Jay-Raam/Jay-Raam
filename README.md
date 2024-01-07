@@ -1,6 +1,6 @@
 <h1 align="center">Hi Techie's 👋, I'm JAYASRIAAM</h1>
 
-<p align="center"> <a href="https://www.linkedin.com/in/jayasriraam/" target="_blank" rel="noreferrer"> <img src="[https://media0.giphy.com/media/26FxFLIRsjweMvsnS/200w.webp?cid=ecf05e47alp82hmjrt2cfhpvbz58d8j9l3tr2291xymu4ytn&ep=v1_gifs_search&rid=200w.webp&ct=g](https://media2.giphy.com/media/xTiTnFGt9RQzv6YrWE/200w.webp?cid=ecf05e47tnvtx66xn813ggrhse63zxlcvbu1yfr5s9qqde16&ep=v1_gifs_search&rid=200w.webp&ct=g)" height="150"  alt="computer"/> </a>
+<p align="center"> <a href="https://www.linkedin.com/in/jayasriraam/" target="_blank" rel="noreferrer"> <img src="https://media2.giphy.com/media/xTiTnFGt9RQzv6YrWE/200w.webp?cid=ecf05e47tnvtx66xn813ggrhse63zxlcvbu1yfr5s9qqde16&ep=v1_gifs_search&rid=200w.webp&ct=g" height="150"  alt="computer"/> </a>
   
 <h3 align="center">Full Stack Developer and UI/UX Enthusiast for Web Development. Here, you'll get a peek into my projects, work, and a bit about who I am.</h3>
 - <h3>🌱 I’m currently learning</h3> React, Mongodb, Nodejs, Vue, Html, Css,
