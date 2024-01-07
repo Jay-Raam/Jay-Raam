@@ -32,5 +32,5 @@
 <div align="center">
 <a href="https://github.com/Jay-Raam">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jay-Raam&theme=graywhite" height="180em" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay-Raam&theme=graywhite" height="180em"/>
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay-Raam&theme=graywhite" height="160em"/>
 </div>
