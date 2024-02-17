@@ -2,8 +2,8 @@
 
 <p align="center"> <a href="https://www.linkedin.com/in/jayasriraam/" target="_blank" rel="noreferrer"> <img src="https://media2.giphy.com/media/xTiTnFGt9RQzv6YrWE/200w.webp?cid=ecf05e47tnvtx66xn813ggrhse63zxlcvbu1yfr5s9qqde16&ep=v1_gifs_search&rid=200w.webp&ct=g" height="150"  alt="computer"/> </a>
   
-<h3 align="center">Full Stack Developer and UI/UX Enthusiast for Web Development. Here, you'll get a peek into my projects, work, and a bit about who I am.</h3>
-<h3>🌱 I’m currently learning</h3> React, Mongodb, Nodejs, Vue, Html, Css,
+<h3 align="center"> Front-end Developer and UI/UX Enthusiast for Web Development. Here, you'll get a peek into my projects, work, and a bit about who I am.</h3>
+<h3>🌱 I’m currently learning</h3> React, Mongodb, Nodejs, Vue, Html, Css </h3>
 
   <h3 align="center">💬 Ask me about</h3> 
 - 🌍 I'm based in Chennai.
