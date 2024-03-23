@@ -14,7 +14,6 @@
 📫 How to reach me **jayasriraam.job@gmail.com** <p> <a href="https://twitter.com/ivan_jayram" target="blank"><img src="https://img.shields.io/twitter/follow/ivan_jayram?logo=twitter&style=for-the-badge" alt="ivan_jayram" /></a> </p>
 
   <h3 align="center">⚡ Fun fact </h3> 
-- 🌱 I'm currently learning New Programming Language's.<br>
 - 🎮 I enjoy playing Valor Legends.<br>
 - 📚 One of the my favorite book is AnnaiTamil.<br>
 
