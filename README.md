@@ -8,7 +8,7 @@
   <h3 align="center">💬 Ask me about</h3> 
 - 🌍 I'm based in Chennai.<br>
 - 🎓 Graduated in BCA from G.T.N arts colleges.<br>
-- 😄 Pronouns: Jay<br>
+- 😄 Pronouns: Jay<br><br><br>
 
   
 📫 How to reach me **jayasriraam.job@gmail.com**<br><br>
