@@ -6,9 +6,9 @@
 <h3>🌱 I’m currently learning</h3> React, Mongodb, Nextjs </h3>
 
   <h3 align="center">💬 Ask me about</h3> 
-- 🌍 I'm based in Chennai.
-- 🎓 Graduated in BCA from G.T.N arts colleges.
-- 😄 Pronouns: Jay
+- 🌍 I'm based in Chennai.<br>
+- 🎓 Graduated in BCA from G.T.N arts colleges.<br>
+- 😄 Pronouns: Jay<br>
 
   
 📫 How to reach me **jayasriraam.job@gmail.com** <p> <a href="https://twitter.com/ivan_jayram" target="blank"><img src="https://img.shields.io/twitter/follow/ivan_jayram?logo=twitter&style=for-the-badge" alt="ivan_jayram" /></a> </p>
