@@ -1,12 +1,11 @@
 <h1 align="center">Hi Techies 👋, I'm JAYASRIAAM</h1>
-
-
   <a href="https://www.linkedin.com/in/jayasriraam/" target="_blank" rel="noreferrer">
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d81e67206598527.66cf2331de8bc.gif" height="200px" align="left" alt="men"/>
       </a>
         <a href="https://jayasriraam.vercel.app/" target="_blank" rel="noreferrer">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5cb685206598527.66cf256b7632a.gif" height="200px" align="right" alt="men"/></a>
-
+<br>
+<br>
 
 <h3 align="center">
   Front-end Developer and UI/UX Enthusiast for Web Development. Here, you'll get a peek into my projects, work, and a bit about who I am.
