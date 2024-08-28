@@ -6,6 +6,10 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5cb685206598527.66cf256b7632a.gif" height="200px" align="right" alt="men"/></a>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <h3 align="center">
   Front-end Developer and UI/UX Enthusiast for Web Development. Here, you'll get a peek into my projects, work, and a bit about who I am.
