@@ -1,25 +1,20 @@
 <h1 align="center">Hi Techies 👋, I'm JAYASRIAAM</h1>
+
   <a href="https://www.linkedin.com/in/jayasriraam/" target="_blank" rel="noreferrer">
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d81e67206598527.66cf2331de8bc.gif" height="200px" align="center" alt="men"/>
       </a>
         <a href="https://jayasriraam.vercel.app/" target="_blank" rel="noreferrer">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5cb685206598527.66cf256b7632a.gif" height="200px" align="center" alt="men"/></a>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+      </a>
+        <a href="https://instagram.com/_ivanjay_" target="_blank" rel="noreferrer">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/08266b206598527.66cf28842efa2.gif" height="200px" align="center" alt="men"/></a>
+
 <h3 align="center">
   Front-end Developer and UI/UX Enthusiast for Web Development. Here, you'll get a peek into my projects, work, and a bit about who I am.
 </h3>
 
 <h3>🌱 I’m currently learning:</h3>
-<p>React, MongoDB, Next.js</p>
+<p>Next.js, MongoDB.</p>
 
 <h3 align="center">💬 Ask me about:</h3>
 <ul>
@@ -30,16 +25,12 @@
 
 <p>📫 How to reach me: <strong>jayasriraam.job@gmail.com</strong></p>
 
-<p>
-  <a href="https://twitter.com/ivan_jayram" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ivan_jayram?logo=twitter&style=for-the-badge" alt="ivan_jayram"/>
-  </a>
-</p>
 
 <h3 align="center">⚡ Fun Fact:</h3>
 <ul>
   <li>🎮 I enjoy playing Valor Legends.</li>
   <li>📚 One of my favorite books is Annai Tamil.</li>
+  <li></li>
 </ul>
 
 <h3 align="center">Connect with Me</h3>
