@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jayasriraam/" target="_blank" rel="noreferrer">
-    <img src="https://media2.giphy.com/media/xTiTnFGt9RQzv6YrWE/200w.webp?cid=ecf05e47tnvtx66xn813ggrhse63zxlcvbu1yfr5s9qqde16&ep=v1_gifs_search&rid=200w.webp&ct=g" height="150" alt="computer"/>
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d81e67206598527.66cf2331de8bc.gif" height="200px" align="left" alt="men"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5cb685206598527.66cf256b7632a.gif" height="200px" align="right" alt="men"/>
   </a>
 </p>
 
@@ -150,5 +151,4 @@
   </a>
   <br>
   <br>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d81e67206598527.66cf2331de8bc.gif" height="200px" align="left" alt="men"/>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5cb685206598527.66cf256b7632a.gif" height="200px" align="right" alt="men"/>
+
