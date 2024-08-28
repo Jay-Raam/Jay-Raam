@@ -148,4 +148,6 @@
   <a href="https://helpx.adobe.com/in/support/xd.html" target="_blank" rel="noreferrer">
      <img src="https://skillicons.dev/icons?i=xd" alt="babel" width="40" height="40"/>
   </a>
+  <br>
+  <br>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d81e67206598527.66cf2331de8bc.gif" align="center" alt="computer"/>
