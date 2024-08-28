@@ -177,7 +177,6 @@
      <img src="https://skillicons.dev/icons?i=vscode&theme=Dark" alt="babel" width="40" height="40"/>
   </a>
   <a href="https://helpx.adobe.com/in/support/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-     <img src="https://skillicons.dev/icons?i=xd&theme=Dark" alt="babel" width="40" height="40"/>
+     <img src="https://skillicons.dev/icons?i=xd" alt="babel" width="40" height="40"/>
   </a>
   
