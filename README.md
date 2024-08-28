@@ -150,4 +150,4 @@
   </a>
   <br>
   <br>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d81e67206598527.66cf2331de8bc.gif" align="center" alt="computer"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d81e67206598527.66cf2331de8bc.gif" align="center" alt="men"/>
