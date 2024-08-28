@@ -150,4 +150,5 @@
   </a>
   <br>
   <br>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d81e67206598527.66cf2331de8bc.gif" widht="300px" align="center" alt="men"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d81e67206598527.66cf2331de8bc.gif" align="left" alt="men"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5cb685206598527.66cf256b7632a.gif"  align="right" alt="men"/>
