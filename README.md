@@ -14,12 +14,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <h3 align="center">
   Front-end Developer and UI/UX Enthusiast for Web Development. Here, you'll get a peek into my projects, work, and a bit about who I am.
 </h3>
