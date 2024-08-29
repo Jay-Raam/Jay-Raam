@@ -19,18 +19,18 @@
   <li>🌍 I'm based in Chennai.</li>
   <li>🎓 Graduated with a BCA from G.T.N. Arts College.</li>
   <li>😄 Pronouns: Jay</li>
+  <li>🌱 I’m currently learning: Next.js, MongoDB.</li>
 </ul>
 
 <p>📫 How to reach me: <strong>jayasriraam.job@gmail.com</strong></p>
 
-<h3>🌱 I’m currently learning:</h3>
-<p>Next.js, MongoDB.</p>
 
 <h3 align="center">⚡ Fun Fact:</h3>
 <ul>
   <li>🎮 I enjoy playing Valor Legends.</li>
   <li>📚 One of my fav book is Annai Tamil.</li>
   <li>🔭 I've watched over 800 movies, 20 anime, and 20 web series.</li>
+  <li>🥇 State player in Volleyball</li>
 </ul>
 
 <h3 align="center">Connect with Me</h3>
