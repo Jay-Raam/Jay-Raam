@@ -12,10 +12,8 @@
 <h3 align="center">
   Front-end Developer and UI/UX Enthusiast for Web Development. Here, you'll get a peek into my projects, work, and a bit about who I am.
 </h3>
-
-<h3>🌱 I’m currently learning:</h3>
-<p>Next.js, MongoDB.</p>
-
+<br>
+<br>
 <h3 align="center">💬 Ask me about:</h3>
 <ul>
   <li>🌍 I'm based in Chennai.</li>
@@ -25,23 +23,25 @@
 
 <p>📫 How to reach me: <strong>jayasriraam.job@gmail.com</strong></p>
 
+<h3>🌱 I’m currently learning:</h3>
+<p>Next.js, MongoDB.</p>
 
 <h3 align="center">⚡ Fun Fact:</h3>
 <ul>
   <li>🎮 I enjoy playing Valor Legends.</li>
-  <li>📚 One of my favorite books is Annai Tamil.</li>
-  <li></li>
+  <li>📚 One of my fav book is Annai Tamil.</li>
+  <li>🔭 I've watched over 800 movies, 20 anime, and 20 web series.</li>
 </ul>
 
 <h3 align="center">Connect with Me</h3>
-<p align="left">
-  <a href="https://twitter.com/ivan_jayram" target="blank">
+<p align="center">
+  <a href="https://twitter.com/ivan_jayram" target="blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivan_jayram" height="30" width="40"/>
   </a>
-  <a href="https://linkedin.com/in/jayasriraam" target="blank">
+  <a href="https://linkedin.com/in/jayasriraam" target="blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayasriraam" height="30" width="40"/>
   </a>
-  <a href="https://instagram.com/_ivanjay_" target="blank">
+  <a href="https://instagram.com/_ivanjay_" target="blank" >
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ivanjay_" height="30" width="40"/>
   </a>
 </p>
