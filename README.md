@@ -29,7 +29,7 @@
 <ul>
   <li>🎮 I enjoy playing Valor Legends.</li>
   <li>📚 One of my fav book is Annai Tamil.</li>
-  <li>🔭 I've watched over 800 movies, 20 anime, and 20 web series.</li>
+  <li>🔭 I've watched over 800+ movies, 20+ anime, and 20+ web series.</li>
   <li>🥇 State player in Volleyball</li>
 </ul>
 
