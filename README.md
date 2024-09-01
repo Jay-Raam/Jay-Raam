@@ -18,8 +18,8 @@
 <ul>
   <li>🌍 I'm based in Chennai.</li>
   <li>🎓 Graduated with a BCA from G.T.N. Arts College.</li>
-  <li>😄 Pronouns: Jay</li>
   <li>🌱 I’m currently learning: Next.js, MongoDB.</li>
+  <li>😄 Pronouns: Jay</li>
 </ul>
 
 <p>📫 How to reach me: <strong>jayasriraam.job@gmail.com</strong></p>
