@@ -1,4 +1,4 @@
-<h1 align="center">Hi Techies 👋, I'm JAYASRIAAM</h1>
+<h1 align="center">Hi Techies I'm JAYASRIAAM 👋</h1>
 
   <a href="https://www.linkedin.com/in/jayasriraam/" target="_blank" rel="noreferrer">
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d81e67206598527.66cf2331de8bc.gif" height="160px" align="center" alt="men"/>
