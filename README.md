@@ -14,7 +14,7 @@
 </h3>
 <br>
 <br>
-<h3 align="center">💬 Ask me about:</h3>
+<h3 align="center">💬 Ask me about</h3>
 <ul>
   <li>🌍 I'm based in Chennai.</li>
   <li>🎓 Graduated with a BCA from G.T.N. Arts College.</li>
@@ -25,7 +25,7 @@
 <p>📫 How to reach me: <strong>jayasriraam.job@gmail.com</strong></p>
 
 
-<h3 align="center">⚡ Fun Fact:</h3>
+<h3 align="center">⚡ Fun Fact</h3>
 <ul>
   <li>🎮 I enjoy playing Valor Legends.</li>
   <li>📚 One of my fav book is Annai Tamil.</li>
