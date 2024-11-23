@@ -18,7 +18,7 @@
 <ul>
   <li>🌍 I'm based in Chennai.</li>
   <li>🎓 Graduated with a BCA from G.T.N. Arts College.</li>
-  <li>🌱 I’m currently learning: Next.js, MongoDB.</li>
+  <li>🌱 I’m currently learning: Next.js, MongoDB, Ionic.</li>
   <li>😄 Pronoun: Jay</li>
 </ul>
 
