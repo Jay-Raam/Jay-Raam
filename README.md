@@ -44,7 +44,7 @@
       <li>Optimized front-end performance and maintained clean, reusable code practices.</li>
     </ul>
     <br />
-    <li><strong>💼 Jr. Web Developer</strong> – PPV Technologies (2024 - Present)</li>
+    <li><strong>💼 Jr. Software Developer</strong> – PPV Technologies (2024 - Present)</li>
     <ul>
       <li>Built enterprise-grade web and mobile apps using Ionic React and Capacitor.</li>
       <li>Implemented modular architecture and route-based code splitting for improved app performance.</li>
