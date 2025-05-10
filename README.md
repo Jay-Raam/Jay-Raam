@@ -18,7 +18,7 @@
 <ul>
   <li>🌍 I'm based in Chennai.</li>
   <li>🎓 Graduated with a BCA from G.T.N. Arts College.</li>
-  <li>🌱 I’m currently learning: Next.js, MongoDB, Ionic.</li>
+  <li>🌱 I’m currently working: React.js, Node.js, Ionic.</li>
   <li>😄 Pronoun: Jay</li>
 </ul>
 
@@ -32,6 +32,28 @@
   <li>🔭 I've watched over 800+ movies, 20+ anime, and 20+ web series.</li>
   <li>🥇 State player in Volleyball</li>
 </ul>
+
+<h3 align="center">🧑‍💼 Experience</h3>
+
+<p align="left">
+  <ul>
+    <li><strong>💼 Front-End Developer</strong> – Akkenam Technologies (2023 - 2024)</li>
+    <ul>
+      <li>Developed scalable and responsive UI components using React, TypeScript, and Bootstrap.</li>
+      <li>Collaborated with design and backend teams to build interactive dashboards and admin panels.</li>
+      <li>Optimized front-end performance and maintained clean, reusable code practices.</li>
+    </ul>
+    <br />
+    <li><strong>💼 Jr. Web Developer</strong> – PPV Technologies (2024 - Present)</li>
+    <ul>
+      <li>Built enterprise-grade web and mobile apps using Ionic React and Capacitor.</li>
+      <li>Implemented modular architecture and route-based code splitting for improved app performance.</li>
+      <li>Integrated RESTful APIs and managed app state using Redux, React Context, and custom hooks.</li>
+      <li>Contributed to real-time monitoring tools for industrial devices with intuitive data visualizations.</li>
+    </ul>
+  </ul>
+</p>
+
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
