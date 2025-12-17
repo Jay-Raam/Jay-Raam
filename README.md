@@ -18,7 +18,7 @@
 <ul>
   <li>🌍 I'm based in Chennai.</li>
   <li>🎓 Graduated with a BCA from G.T.N. Arts College.</li>
-  <li>🌱 I’m currently working: React.js, Node.js, Ionic.</li>
+  <li>🌱 I’m currently working: React.js, Next.js, Node.js, Ionic.</li>
   <li>😄 Pronoun: Jay</li>
 </ul>
 
@@ -29,7 +29,7 @@
 <ul>
   <li>🎮 I enjoy playing Valor Legends.</li>
   <li>📚 One of my fav book is Annai Tamil.</li>
-  <li>🔭 I've watched over 800+ movies, 20+ anime, and 20+ web series.</li>
+  <li>🔭 I've watched over 1000+ movies, 40+ anime, and 40+ web series.</li>
   <li>🥇 State player in Volleyball</li>
 </ul>
 
