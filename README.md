@@ -70,7 +70,7 @@
 </p>
 
 <h3 align="center">Languages and Tools</h3>
-<p align="left">
+<p align="center">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40"/>
   </a>
