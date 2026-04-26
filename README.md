@@ -39,17 +39,18 @@
   <ul>
     <li><strong>💼 Front-End Developer</strong> – Akkenam Technologies (2023 - 2024)</li>
     <ul>
-      <li>Developed scalable and responsive UI components using React, TypeScript, and Bootstrap.</li>
-      <li>Collaborated with design and backend teams to build interactive dashboards and admin panels.</li>
-      <li>Optimized front-end performance and maintained clean, reusable code practices.</li>
+      <li>Built modern, responsive UI systems in Figma with scalable design components.</li>
+      <li>Developed GraphQL & REST APIs using Node.js (GraphQL Yoga, Express).</li>
+      <li>Optimized MongoDB schemas, improving query performance by ~40%</li>
+      <li>Integrated third-party services & backend logic for scalable systems.</li>
     </ul>
     <br />
     <li><strong>💼 Jr. Software Developer</strong> – PPV Technologies (2024 - Present)</li>
     <ul>
-      <li>Built enterprise-grade web and mobile apps using Ionic React and Capacitor.</li>
-      <li>Implemented modular architecture and route-based code splitting for improved app performance.</li>
-      <li>Integrated RESTful APIs and managed app state using Redux, React Context, and custom hooks.</li>
-      <li>Contributed to real-time monitoring tools for industrial devices with intuitive data visualizations.</li>
+      <li>Developed cross-platform apps using Ionic React + Capacitor (TypeScript).</li>
+      <li>Improved UI performance (~40%) via optimization & lazy loading.</li>
+      <li>Integrated Firebase (FCM + Realtime DB) for real-time sync & notifications.</li>
+      <li>Created IoT and Web application, using MQTT over WebSocket (40–50% faster response).</li>
     </ul>
   </ul>
 </p>
