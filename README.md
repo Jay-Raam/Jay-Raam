@@ -170,6 +170,7 @@ const Jayasriraam = {
   <a href="https://helpx.adobe.com/in/support/xd.html" target="_blank" rel="noreferrer">
      <img src="https://skillicons.dev/icons?i=xd" alt="babel" width="40" height="40"/>
   </a>
+</p>
   <br>
   <br>
 
