@@ -1,13 +1,18 @@
 <h1 align="center">Hi Techies I'm JAYASRIAAM 👋</h1>
 
-  <a href="https://www.linkedin.com/in/jayasriraam/" target="_blank" rel="noreferrer">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d81e67206598527.66cf2331de8bc.gif" height="160px" align="center" alt="men"/>
-      </a>
-        <a href="https://jayasriraam.vercel.app/" target="_blank" rel="noreferrer">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5cb685206598527.66cf256b7632a.gif" height="160px" align="center" alt="men"/></a>
-      </a>
-        <a href="https://instagram.com/_ivanjay_" target="_blank" rel="noreferrer">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/08266b206598527.66cf28842efa2.gif" height="160px" align="center" alt="men"/></a>
+<p align="center" style="white-space: nowrap;">
+  <a href="https://www.linkedin.com/in/jayasriraam/" target="_blank">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d81e67206598527.66cf2331de8bc.gif" height="140px" />
+  </a>
+  <a href="https://jayasriraam.vercel.app/" target="_blank">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5cb685206598527.66cf256b7632a.gif" height="140px" />
+  </a>
+  <a href="https://instagram.com/_ivanjay_" target="_blank">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/08266b206598527.66cf28842efa2.gif" height="140px" />
+  </a>
+</p>
+
+<br />
 
 <h3 align="center">
   Full Stack Developer and UI/UX Enthusiast for Web Development. Here, you'll get a peek into my projects, work, and a bit about who I am.
