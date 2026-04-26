@@ -172,5 +172,11 @@ const Jayasriraam = {
   </a>
 </p>
   <br>
+
+  <h3 align="center">Languages & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,mysql,figma,git,github,gitlab,vscode,vite,tailwind,bootstrap,materialui" />
+</p>
   <br>
 
