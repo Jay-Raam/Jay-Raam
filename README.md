@@ -14,24 +14,22 @@
 </h3>
 <br>
 <br>
-<h3 align="center">💬 Ask me about</h3>
-<ul>
-  <li>🌍 I'm based in Chennai.</li>
-  <li>🎓 Graduated with a BCA from G.T.N. Arts College.</li>
-  <li>🌱 I’m currently working: React.js, Next.js, Node.js, Ionic.</li>
-  <li>😄 Pronoun: Jay</li>
-</ul>
-
-<p>📫 How to reach me: <strong>jayasriraam.job@gmail.com</strong></p>
-
-
-<h3 align="center">⚡ Fun Fact</h3>
-<ul>
-  <li>🎮 I enjoy playing Valor Legends.</li>
-  <li>📚 One of my fav book is Annai Tamil.</li>
-  <li>🔭 I've watched over 1000+ movies, 40+ anime, and 40+ web series.</li>
-  <li>🥇 State player in Volleyball</li>
-</ul>
+```ts
+const jay = {
+  name      : "Jayasriaam",
+  location  : "Chennai, India 🌏",
+  education : "BCA — G.T.N. Arts College",
+  role      : "Jr. Software Developer @ PPV Technologies",
+  pronouns  : "Jay",
+  currently : ["React.js", "Next.js", "Node.js", "Ionic + Capacitor"],
+  funFacts  : [
+    "🏐 State-level Volleyball player",
+    "🎬 Watched 1000+ movies, 40+ anime, 40+ web series",
+    "📖 Fav book: Annai Tamil",
+    "🎮 Valor Legends enjoyer"
+  ]
+};
+```
 
 <h3 align="center">🧑‍💼 Experience</h3>
 
