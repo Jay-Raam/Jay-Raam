@@ -73,7 +73,7 @@ const Jayasriraam = {
   <h3 align="center">Languages & Tools</h3>
 
 <p align="center">
-  <img src="[https://skillicons.dev/icons](https://skillicons.dev/icons)?i=babel,bootstrap,html,css,express,figma,git,github,gitlab,ai,js,jquery,materialui,linux,matlab,mongodb,mysql,nextjs,nodejs,npm,ps,php,react,sass,tailwind,ts,vercel,vite,vscode,xd,androidstudio,aws,azure,docker,firebase,flutter,gradle,postman,py,redis" />
+  <img src="[https://skillicons.dev/icons](https://skillicons.dev/icons)?i=babel,bootstrap,html,css,express,figma,git,github,gitlab,ai,js,jquery,materialui,linux,matlab,mongodb,mysql,nextjs,nodejs,npm,ps,php,react,sass,tailwind,ts,vercel,vite,vscode,xd,androidstudio,aws,azure,docker,firebase,flutter,gradle,postman,py,redis," />
 </p>
   <br>
 
