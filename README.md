@@ -10,7 +10,7 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/08266b206598527.66cf28842efa2.gif" height="160px" align="center" alt="men"/></a>
 
 <h3 align="center">
-  Front-end Developer and UI/UX Enthusiast for Web Development. Here, you'll get a peek into my projects, work, and a bit about who I am.
+  Full Stack Developer and UI/UX Enthusiast for Web Development. Here, you'll get a peek into my projects, work, and a bit about who I am.
 </h3>
 <br>
 <br>
