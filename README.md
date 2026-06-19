@@ -42,7 +42,7 @@ const Jayasriraam = {
 
 <p align="left">
   <ul>
-    <li><strong>💼 Front-End Developer</strong> – Akkenam Technologies (2023 - 2024)</li>
+    <li><strong>💼 Full Stack Developer</strong> – Akkenam Technologies (2023 - 2024)</li>
     <ul>
       <li>Built modern, responsive UI systems in Figma with scalable design components.</li>
       <li>Developed GraphQL & REST APIs using Node.js (GraphQL Yoga, Express).</li>
@@ -50,7 +50,7 @@ const Jayasriraam = {
       <li>Integrated third-party services & backend logic for scalable systems.</li>
     </ul>
     <br />
-    <li><strong>💼 Jr. Software Developer</strong> – PPV Technologies (2024 - Present)</li>
+    <li><strong>💼 Software Developer</strong> – PPV Technologies (2024 - Present)</li>
     <ul>
       <li>Developed cross-platform apps using Ionic React + Capacitor (TypeScript).</li>
       <li>Improved UI performance (~40%) via optimization & lazy loading.</li>
