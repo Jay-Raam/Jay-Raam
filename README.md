@@ -26,7 +26,7 @@ const Jayasriraam = {
   name      : "Jayasriaam",
   location  : "Chennai, India 🌏",
   education : "BCA — G.T.N. Arts College, MCA - Bharathidasan University",
-  role      : "Jr. Software Developer @ PPV Technologies",
+  role      : "Software Developer @ PPV Technologies",
   pronouns  : "Jay",
   currently : ["React.js", "Next.js", "Node.js", "Ionic + Capacitor"],
   funFacts  : [
