@@ -23,7 +23,7 @@
 
 ```ts
 const Jayasriraam = {
-  name      : "Jayasriaam",
+  name      : "Jayasriraam",
   location  : "Chennai, India 🌏",
   education : "BCA — G.T.N. Arts College, MCA - Bharathidasan University",
   role      : "Software Developer @ PPV Technologies",
