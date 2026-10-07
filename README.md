@@ -30,14 +30,14 @@
 ```ts
 const Jayasriraam = {
   name       : "Jayasriraam",
-  role       : "Senior Full Stack Developer",
+  role       : "Software Developer",
   company    : "PPV Technologies",
   location   : "Chennai, India 🌏",
   education  : "BCA — G.T.N. Arts College | MCA — Bharathidasan University",
   focusAreas : ["React 19 & Next.js 15", "GraphQL Yoga & Node.js", "Multi-Tenant B2B SaaS", "AI Agents & Real-time Systems"],
   funFacts   : [
     "🏐 State-level Volleyball player",
-    "🎬 Watched 1000+ movies, 40+ anime, 40+ web series",
+    "🎬 Watched 1000+ movies, 50+ anime, 40+ web series",
     "📖 Favorite book: Annai Tamil",
     "🎮 Valor Legends enjoyer"
   ]
@@ -74,6 +74,5 @@ const Jayasriraam = {
 ### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Raam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Raam&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
