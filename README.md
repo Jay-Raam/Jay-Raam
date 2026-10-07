@@ -46,17 +46,6 @@ const Jayasriraam = {
 
 ---
 
-### 🌟 Featured Engineering Projects
-
-| Project | Tech Stack | Architectural Highlights |
-| :--- | :--- | :--- |
-| 🚀 **[Smart-ERP](https://github.com/Jay-Raam/Smart-ERP)** | React 19, Node.js, Express, Docker, PostgreSQL | Enterprise multi-tenant SaaS with strict FY/branch data isolation, GST e-invoicing compliance, granular RBAC, and Docker CI/CD pipelines. |
-| ⚡ **[PARALLAX](https://github.com/Jay-Raam/PARALLAX)** | Next.js 15, GraphQL Yoga, Redis, BullMQ | High-throughput monorepo architecture featuring background queue workers, cache orchestration, and Pino observability. |
-| 🏥 **[Health-Care-ERP](https://github.com/Jay-Raam/Health-Care-ERP)** | Next.js, Fastify, OpenRouter AI, TypeScript | Hospital AI Agent system powered by an 11-model LLM failover matrix and defensive HIPAA/SOC2 compliance guards. |
-| 🛍️ **[Lumina](https://github.com/Jay-Raam/Lumina)** | React 19, Zustand, GraphQL APIs, Tailwind | Full-stack e-commerce system with GST invoicing, automated CI testing, and responsive UI micro-interactions. |
-| 🤖 **[Wind-Autonomous-Agent-System](https://github.com/Jay-Raam/Wind-Autonomous-Agent-System)** | React, Node.js, Socket.IO, TypeScript | Real-time autonomous AI task planner and execution engine with live agent telemetry streams. |
-
----
 
 ### 🧑‍💼 Professional Experience
 
