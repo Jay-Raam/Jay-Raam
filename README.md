@@ -59,13 +59,47 @@ const Jayasriraam = {
     <td width="50%">
       <h3 align="center"><a href="https://github.com/Jay-Raam/Smart-ERP">Smart-ERP ✦ Enterprise B2B SaaS</a></h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/@smart--erp/gst--engine-v1.0.0-green" alt="GST Engine" />
         <img src="https://img.shields.io/badge/React%2019-Vite-61DAFB?logo=react" alt="React 19" />
         <img src="https://img.shields.io/badge/Node.js-Express-339933?logo=node.js" alt="Node" />
         <img src="https://img.shields.io/badge/MongoDB-Atlas-47A248?logo=mongodb" alt="Mongo" />
-        <img src="https://img.shields.io/badge/Three.js-WebGL-000000?logo=three.js" alt="Three.js" />
       </p>
-      <p>Flagship production multi-tenant enterprise ERP orchestrator. Features 37-state automated GST e-invoicing, strict financial-year isolation, 2-way/3-way billing reconciliation, autonomous LLM Copilot, and interactive 3D WebGL showcase.</p>
+      <p>Flagship production multi-tenant ERP platform. Features the zero-dependency <b><code>@smart-erp/gst-engine</code></b> package with 38-state statutory tax rules, 2-way/3-way PO & bill reconciliation, autonomous LLM Copilot, and vector PDF tax invoicing with B2B QR codes.</p>
     </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/Jay-Raam/KURIPP">KURIPP ✦ AI Knowledge Platform</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/RRF%20k=60-Hybrid%20Search-7C3AED" alt="RRF" />
+        <img src="https://img.shields.io/badge/PostgreSQL%2017-pgvector-336791?logo=postgresql" alt="Postgres" />
+        <img src="https://img.shields.io/badge/GraphQL-Yoga%20v5-E10098?logo=graphql" alt="Yoga" />
+        <img src="https://img.shields.io/badge/Next.js%2015-App%20Router-000000?logo=next.js" alt="Next.js" />
+      </p>
+      <p>Enterprise document intelligence workspace featuring single-query Reciprocal Rank Fusion (RRF $k=60$) combining dense 1536-dim vector embeddings with BM25 lexical token search, in-memory zero-storage auth guards, and multi-document research synthesis.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/Jay-Raam/PARALLAX">PARALLAX ✦ Engineering Intelligence</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js%2015-App%20Router-000000?logo=next.js" alt="Next.js" />
+        <img src="https://img.shields.io/badge/GraphQL-Yoga-E10098?logo=graphql" alt="GraphQL" />
+        <img src="https://img.shields.io/badge/BullMQ-Redis-DC382D?logo=redis" alt="BullMQ" />
+        <img src="https://img.shields.io/badge/MongoDB-Mongoose-47A248?logo=mongodb" alt="Mongo" />
+      </p>
+      <p>Engineering control plane transforming GitHub activity into deterministic health metrics and PR risk scores. Features BullMQ background workers with inline fallback, real-time GraphQL subscriptions, and command palette search.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/Jay-Raam/School-Visitor-Management-ERP">School Visitor Management ERP</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Hardware-ESP32%20%7C%20Relays-informational" alt="Hardware" />
+        <img src="https://img.shields.io/badge/MQTT-WebSocket%20(<120ms)-success" alt="MQTT" />
+        <img src="https://img.shields.io/badge/Firebase-RTDB%20Sync-FFCA28?logo=firebase" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Offline-SQLite%20Buffer-blueviolet" alt="SQLite" />
+      </p>
+      <p>Real-world IoT campus access control case study. Interfaced dual ESP32 turnstile relays with RFID readers, thermal printers, and an embedded MQTT broker, achieving ~86% reduction in visitor queue dwell time and zero audit record loss during outages.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/Jay-Raam/Wind-Autonomous-Agent-System">Wind ✦ Autonomous AI Agents</a></h3>
       <p align="center">
@@ -76,27 +110,15 @@ const Jayasriraam = {
       </p>
       <p>Autonomous multi-agent task execution system. Implements a Planner &rarr; Research &rarr; Analysis &rarr; Writer pipeline with BullMQ background queues, inline Redis fallbacks, and real-time Socket.IO telemetry streaming.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Jay-Raam/PARALLAX">PARALLAX ✦ Next.js 15 Monorepo</a></h3>
+      <h3 align="center"><a href="https://github.com/Jay-Raam/Synapse-Realtime-AI">Synapse-Realtime-AI ✦ Conversational AI</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js%2015-App%20Router-000000?logo=next.js" alt="Next.js" />
-        <img src="https://img.shields.io/badge/GraphQL-Yoga-E10098?logo=graphql" alt="GraphQL" />
-        <img src="https://img.shields.io/badge/Pino-Observability-68A063" alt="Pino" />
-        <img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?logo=tailwindcss" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/React%2019-Vite-61DAFB?logo=react" alt="React 19" />
+        <img src="https://img.shields.io/badge/Node.js-Express-339933?logo=node.js" alt="Node" />
+        <img src="https://img.shields.io/badge/OpenRouter-Streaming-7C3AED" alt="Streaming" />
+        <img src="https://img.shields.io/badge/API-Server%20Proxy-brightgreen" alt="Proxy" />
       </p>
-      <p>Enterprise-grade monorepo powered by Next.js 15, GraphQL Yoga schemas, Redis caching, async BullMQ workers, and structured Pino logging with full CI/CD verification.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/Jay-Raam/School-Visitor-Management-ERP">School Visitor Management ERP</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Ionic-Capacitor-3880FF?logo=ionic" alt="Ionic" />
-        <img src="https://img.shields.io/badge/Firebase-FCM%20%2B%20RTDB-FFCA28?logo=firebase" alt="Firebase" />
-        <img src="https://img.shields.io/badge/MQTT-IoT%20Sensors-660066" alt="MQTT" />
-        <img src="https://img.shields.io/badge/RBAC-Multi--Tenant-blue" alt="RBAC" />
-      </p>
-      <p>Production visitor management platform featuring biometric/facial check-in, real-time IoT gateway integration via MQTT over WebSocket, automated weekly email dispatches, and audit trails.</p>
+      <p>Production full-stack conversational intelligence platform with server-side proxy security, token-rate telemetry, dynamic topic exploration, and offline resilience.</p>
     </td>
   </tr>
 </table>
