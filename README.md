@@ -1,7 +1,7 @@
 <h1 align="center">Hi Techies, I'm JAYASRIRAAM 👋</h1>
 
 <p align="center">
-  <strong>🚀 Full Stack Developer · GST ERP, AI Search & Real-Time Systems</strong>
+  <strong>Full Stack Developer</strong>
 </p>
 
 <p align="center" style="white-space: nowrap;">
