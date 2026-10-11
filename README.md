@@ -1,7 +1,7 @@
 <h1 align="center">Hi Techies, I'm JAYASRIRAAM 👋</h1>
 
 <p align="center">
-  <strong>🚀 Full Stack Developer & Distributed Systems Engineer</strong>
+  <strong>🚀 Full Stack Developer · GST ERP, AI Search & Real-Time Systems</strong>
 </p>
 
 <p align="center" style="white-space: nowrap;">
@@ -89,14 +89,14 @@ const Jayasriraam = {
       <p>Engineering control plane transforming GitHub activity into deterministic health metrics and PR risk scores. Features BullMQ background workers with inline fallback, real-time GraphQL subscriptions, and command palette search.</p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Jay-Raam/School-Visitor-Management-ERP">School Visitor Management ERP</a></h3>
+      <h3 align="center"><a href="https://github.com/Jay-Raam/dinegraph-api">DineGraph API ✦ High-Throughput GraphQL</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Hardware-ESP32%20%7C%20Relays-informational" alt="Hardware" />
-        <img src="https://img.shields.io/badge/MQTT-WebSocket%20(<120ms)-success" alt="MQTT" />
-        <img src="https://img.shields.io/badge/Firebase-RTDB%20Sync-FFCA28?logo=firebase" alt="Firebase" />
-        <img src="https://img.shields.io/badge/Offline-SQLite%20Buffer-blueviolet" alt="SQLite" />
+        <img src="https://img.shields.io/badge/GraphQL-Yoga%20v5-E10098?logo=graphql" alt="Yoga" />
+        <img src="https://img.shields.io/badge/PostgreSQL-Supabase-336791?logo=postgresql" alt="Postgres" />
+        <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript" alt="TS" />
+        <img src="https://img.shields.io/badge/DataLoaders-N%2B1%20Eliminated-brightgreen" alt="DataLoaders" />
       </p>
-      <p>Real-world IoT campus access control case study. Interfaced dual ESP32 turnstile relays with RFID readers, thermal printers, and an embedded MQTT broker, achieving ~86% reduction in visitor queue dwell time and zero audit record loss during outages.</p>
+      <p>Production backend featuring 100% parameterized raw SQL repositories with CTE aggregations, request-scoped DataLoaders eliminating N+1 queries, strict pagination bounds, and verified database pool connection security.</p>
     </td>
   </tr>
   <tr>
@@ -111,14 +111,14 @@ const Jayasriraam = {
       <p>Autonomous multi-agent task execution system. Implements a Planner &rarr; Research &rarr; Analysis &rarr; Writer pipeline with BullMQ background queues, inline Redis fallbacks, and real-time Socket.IO telemetry streaming.</p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Jay-Raam/Synapse-Realtime-AI">Synapse-Realtime-AI ✦ Conversational AI</a></h3>
+      <h3 align="center"><a href="https://github.com/Jay-Raam/Scalify">Scalify ✦ Real-Time Collaboration</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React%2019-Vite-61DAFB?logo=react" alt="React 19" />
-        <img src="https://img.shields.io/badge/Node.js-Express-339933?logo=node.js" alt="Node" />
-        <img src="https://img.shields.io/badge/OpenRouter-Streaming-7C3AED" alt="Streaming" />
-        <img src="https://img.shields.io/badge/API-Server%20Proxy-brightgreen" alt="Proxy" />
+        <img src="https://img.shields.io/badge/Next.js%2014-App%20Router-000000?logo=next.js" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Socket.IO-Realtime-010101?logo=socket.io" alt="Sockets" />
+        <img src="https://img.shields.io/badge/PostgreSQL-Prisma-336791?logo=postgresql" alt="Postgres" />
+        <img src="https://img.shields.io/badge/WebRTC-Audio%2FVideo-339933" alt="WebRTC" />
       </p>
-      <p>Production full-stack conversational intelligence platform with server-side proxy security, token-rate telemetry, dynamic topic exploration, and offline resilience.</p>
+      <p>Full-stack real-time collaboration workspace featuring multi-server channels, persistent chat, WebRTC voice/video calling rooms, and member role management.</p>
     </td>
   </tr>
 </table>
