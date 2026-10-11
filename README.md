@@ -147,15 +147,3 @@ const Jayasriraam = {
   <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,graphql,tailwind,postgres,mongodb,redis,docker,git,github,githubactions,vite,html,css,sass,postman,py" />
 </p>
 
----
-
-### 📊 GitHub Activity & Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Raam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Raam&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Raam&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
