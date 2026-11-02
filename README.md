@@ -129,20 +129,20 @@ const Jayasriraam = {
 
 * **💼 Software Developer – PPV Technologies** *(2024 – Present)*
   * Architected cross-platform apps using **Ionic React + Capacitor** with strict TypeScript type safety.
-  * Accelerated UI performance by **~40%** through route-based code-splitting, custom memoization, and lazy asset loading.
+  * Improved frontend rendering and initial page load through route-based code-splitting, memoization, and lazy asset loading.
   * Integrated **Firebase (FCM + Realtime DB)** for low-latency notifications and offline-first state synchronization.
-  * Engineered IoT & Web applications using **MQTT over WebSocket**, delivering 40–50% faster real-time device telemetry response.
+  * Engineered IoT & Web applications using **MQTT over WebSocket**, with sub-second real-time response across 100+ active field nodes.
 
 * **💼 Full Stack Developer – Akkenam Technologies** *(2023 – 2024)*
   * Built modular design systems and high-converting web interfaces using Figma, React, and Tailwind CSS.
   * Implemented high-throughput GraphQL & REST APIs using **Node.js, GraphQL Yoga, and Express**.
-  * Optimized MongoDB aggregation pipelines and compound indexes, reducing analytical query latency by **~40%**.
-  * Enforced robust JWT-based multi-factor authentication, cryptographic password hashing, and role-based access control (RBAC).
+  * Optimized MongoDB aggregation pipelines and compound indexes, cutting reporting query time by **~50%** (~800ms+ to under 400ms).
+  * Implemented JWT authentication with refresh-token rotation, role-based access control (RBAC), and request validation.
 
 ---
 
 ### 🛠️ Languages, Frameworks & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,graphql,tailwind,postgres,mongodb,redis,docker,git,github,githubactions,vite,html,css,sass,postman,py" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,graphql,tailwind,postgres,mongodb,redis,docker,git,github,githubactions,vite,html,css,sass,postman" />
 </p>
